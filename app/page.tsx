@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <main>
 
-        <p className='text-red-700'>
+        <p className='text-red-700 text-7xl'>
           Get started by editing&nbsp;
          
         </p>
